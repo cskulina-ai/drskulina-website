@@ -893,7 +893,7 @@ ul { list-style: none; }
   margin-bottom: 14px;
 }
 
-.location-address--cosmetic {
+.location-address.location-address--cosmetic {
   color: #c0392b;
 }
 
