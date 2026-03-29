@@ -887,6 +887,12 @@ ul { list-style: none; }
   margin-bottom: 18px;
 }
 
+.location-address {
+  font-size: 0.85rem;
+  color: var(--slate);
+  margin-bottom: 14px;
+}
+
 .location-tag {
   display: inline-block;
   background: var(--cream);
