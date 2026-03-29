@@ -893,9 +893,6 @@ ul { list-style: none; }
   margin-bottom: 14px;
 }
 
-.location-address.location-address--cosmetic {
-  color: #c0392b;
-}
 
 .location-tag {
   display: inline-block;
