@@ -925,7 +925,8 @@ ul { list-style: none; }
   margin-top: 16px;
 }
 
-.card-badge {
+.card-badges .card-badge {
+  position: static;
   display: inline-block;
   background: var(--gold);
   color: #fff;
