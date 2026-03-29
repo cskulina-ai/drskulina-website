@@ -1007,7 +1007,7 @@ ul { list-style: none; }
   .nav-links.open { display: flex; }
   .nav-toggle { display: flex; }
 
-  .hero-title { font-size: clamp(2.8rem, 12vw, 4rem); }
+  .hero-title { font-size: clamp(1.6rem, 7.5vw, 4rem); white-space: nowrap; }
   .br-hide { display: none; }
 
   .cred-grid { flex-direction: column; gap: 0; }
